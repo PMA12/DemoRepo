@@ -1,1 +1,3 @@
 This is a sample git file
+
+Added text
